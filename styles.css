@@ -1,0 +1,92 @@
+.msection{
+  background-image: url('background.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  color: white;
+}
+
+.center{
+  margin: 0 10%;
+}
+
+.container{
+  border: 1px solid #FFFFFF;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+.colors{
+  width: 100%;
+}
+.box{
+  display: inline-block;
+  width: 20%;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 2px;
+}
+.grey{
+  background-color: #EDEDED;
+  color: black;
+}
+.white{
+  background-color: white;
+  color: black;
+}
+.red{
+  background-color: #DA3535;
+  color: black;
+}
+
+.green{
+  background-color: #AEFF2B;
+  color: black;
+}
+
+.fonts{
+  width: 100%;
+}
+
+.fbox{
+  display: inline-block;
+  width: 40%;
+  margin: 20px auto;
+}
+
+.Inter{
+  font-family: "inter", sans-serif;
+}
+.Playfair{
+  font-family: "playfairdisplay", sans-serif;
+}
+.Adamina{
+  font-family: "Adamina", sans-serif;
+}
+
+a {
+  color: white;
+}
+
+a:hover{
+  color: gray;
+}
+
+.tbox{
+  display: inline-block;
+  width: 60%;
+  margin: 20px auto;
+}
+
+li {
+  font-size: 18px;
+}
+
+.textsizes{
+  width: 100%;
+}
